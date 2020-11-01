@@ -1,4 +1,4 @@
-# Let's Make & Solve a Rubik's Cube in Unity Part
+# Let's Make & Solve a Rubik's Cube in Unity
 https://www.megalomobile.com/lets-make-and-solve-a-rubiks-cube-in-unity/
 
 Youtube:
